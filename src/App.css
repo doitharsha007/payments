@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+.head {
+  color:black;
+  border:1.5px dashed #0c852c;
+  margin: 30px;
+  padding: 10px;
+  background-color: #0ca534;
+  font-family: -webkit-pictograph;
+
+}
+.date,.sender,.receiver,.transaction{
+  border:1.5px solid black;
+  margin:30px;
+  padding :20px;
+}
+.date{
+  font-family: cursive;
+}
+label,.name,.balance,p{
+  font-family:cursive;
+  font-size: medium;
+}
+div{
+  margin:3px;
+}
+.left{
+  text-align:right;
+}
+.right{
+  text-align: left;
+}
+p{
+  color:red;
+  font-weight: bold;
+}
